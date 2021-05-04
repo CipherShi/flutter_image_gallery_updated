@@ -1,16 +1,21 @@
 <h1 align="center">
-  Flutter Image Gallery plugin - Updated.
+  Flutter Image Gallery plugin.
   <br>
 </h1>
 
 ## Key Features
 
-* Display multiple images in your galleries (any views) / Sorted by date modified
+* Display multiple images in your galleries (any views)
 * Native performance
 * Thumbnail support
 * Read image meta data
 
+## Modified
+* Sort images by date modified
+
 [flutter_image_gallery](https://pub.dev/packages/flutter_image_gallery) - Flutter image gallery plugin
+
+<br>
 
 ## Credits to:
   
