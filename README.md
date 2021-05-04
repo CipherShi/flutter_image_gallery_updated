@@ -5,7 +5,7 @@
 
 ## Key Features
 
-* Display multiple images in your galleries (any views)
+* Display multiple images in your galleries (any views) / Sorted by date modified
 * Native performance
 * Thumbnail support
 * Read image meta data
