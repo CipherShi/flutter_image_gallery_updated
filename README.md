@@ -15,8 +15,6 @@
 
 [flutter_image_gallery](https://pub.dev/packages/flutter_image_gallery) - Flutter image gallery plugin
 
-<br>
-
 ## Credits to:
   
 > GitHub [@rgodlontonshaw](https://github.com/rgodlontonshaw) &nbsp;&middot;&nbsp;
