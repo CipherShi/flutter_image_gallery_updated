@@ -11,8 +11,10 @@
 * Read image meta data
 
 ## Modified
+
 * Sort images by date modified
 
+## Link
 [flutter_image_gallery](https://pub.dev/packages/flutter_image_gallery) - Flutter image gallery plugin
 
 ## Credits to:
